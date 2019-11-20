@@ -1,1 +1,5 @@
-I am master2
+<<<<<<< HEAD
+I am master12
+=======
+I am master12
+>>>>>>> bfb7f0c7aba9371014a02e36046746b7c078e046
